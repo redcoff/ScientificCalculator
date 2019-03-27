@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VědeckáKalkulačka", "VědeckáKalkulačka\VědeckáKalkulačka.csproj", "{EFB544CA-C97C-46AE-96BC-2921CC1DBA10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFB544CA-C97C-46AE-96BC-2921CC1DBA10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFB544CA-C97C-46AE-96BC-2921CC1DBA10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFB544CA-C97C-46AE-96BC-2921CC1DBA10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFB544CA-C97C-46AE-96BC-2921CC1DBA10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4D80860-6BB6-4C2E-8F38-5B5EA523F91A}
+	EndGlobalSection
+EndGlobal
